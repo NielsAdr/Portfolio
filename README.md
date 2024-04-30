@@ -2,7 +2,8 @@
 #### Technical Skills: Python, R, SQL, PowerBI, MongoDB, Neo4j
 
 ## Formation
-Ingénieur agronome, spécialisé en sciences des données | L'institut Agro Rennes-Angers (_Septembre 2023_)	
+Ingénieur agronome, spécialisé en sciences des données
+L'institut Agro Rennes-Angers (_Septembre 2023_)	
 
 ## Expérience
 **Stagiaire data scientist @ INRAE & CIRAD Montpellier (_Février 2023 - Juillet 2023_)**
