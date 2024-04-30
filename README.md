@@ -2,7 +2,7 @@
 #### Technical Skills: Python, R, SQL, PowerBI, MongoDB, Neo4j
 
 ## Formation
-**Ingénieur agronome, spécialisé en sciences des données**
+**Ingénieur agronome, spécialisé en sciences des données**  
 L'institut Agro Rennes-Angers (_Septembre 2023_)	
 
 ## Expérience
