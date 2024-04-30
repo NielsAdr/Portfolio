@@ -37,3 +37,4 @@ Il fallait réaliser de la classification non supervisée d'algorithmes de factu
 - <div align="justify">Faire un groupe de restaurant à tarif de livraison fixe (1er algorithme non mathématique)
 - <div align="justify">Faire de la classification progressive en complexité, et classer seulement les restaurants dont toutes les commandes appartiennent à l'un des deux groupes.
 - <div align="justify">Score maximum personnel : 200 000 (maximum réalisé 400 000)
+[Projet Github](https://github.com/NielsAdr/Hackaton)
