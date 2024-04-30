@@ -17,7 +17,7 @@ Lycée Marcelin Berthelot (_Septembre 2017 - Septembre 2019_)
 ## Projets
 **Prix du meilleur projet au data challenge Rennes 2023**  
 **Organisé par Enedis, Groupama et l'université de Rennes 2**  
-Ce projet a été réalisé en un total de 26h (début 10h, fin 12h le lendemain) et consistait à placer de façon optimisée des bornes de recharge électriques en Ille-et-Vilaine, notre stratégie :
+<div align="justify">Ce projet a été réalisé en un total de 26h (début 10h, fin 12h le lendemain) et consistait à placer de façon optimisée des bornes de recharge électriques en Ille-et-Vilaine, notre stratégie :
 - <div align="justify">Création d'une matrice de la carte d'Ille et Vilaine découpée en carrés de 1km²
 - <div align="justify">Développement d'un indice de besoin pondéré de borne de recharge électrique, appliqué à la matrice
 - <div align="justify">Placement optimisé et dans l'ordre de nécessité du placement des "n" nouvelles bornes souhaitées dans la matrice et obtention d'une nouvelle matrice  
@@ -30,7 +30,7 @@ Ce projet a été réalisé en un total de 26h (début 10h, fin 12h le lendemain
 <br/>
 
 **3e place au Hackaton du PeREN "Segmente-moi si tu peux"**  
-Ce projet a été réalisé en un total de 8h sur place et consistait à obtenir le meilleur score possible à cahque soumission (max : 1 million). Il fallait réaliser de la classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc. Notre stratégie :
+<div align="justify">Ce projet a été réalisé en un total de 8h sur place et consistait à obtenir le meilleur score possible à cahque soumission (max : 1 million). Il fallait réaliser de la classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc. Notre stratégie :
 - <div align="justify">Essayer des classifications aléatoires en "n" algorithmes (n allant de 1 à 10) afin de déterminer combien d'algorithmes existaient (conclusion 6)
 - <div align="justify">Grouper les livraisons en restaurants pusique 1 restaurant = 1 algorithme
 - <div align="justify">Faire un groupe de restaurant à tarif de livraison fixe (1er algorithme non mathématique)
