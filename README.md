@@ -30,7 +30,7 @@ Lycée Marcelin Berthelot (_Septembre 2017 - Septembre 2019_)
 <br/>
 
 **3e place au Hackaton du PeREN "Segmente-moi si tu peux"**  
-<div align="justify">Ce projet a été réalisé en un total de 8h sur place et consistait à obtenir le meilleur score possible à cahque soumission (max : 1 million). Il fallait réaliser de la classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc. Notre stratégie :  
+<div align="justify">Ce projet a été réalisé en un total de 8h sur place et consistait à obtenir le meilleur score possible à cahque soumission (max : 1 million). Il fallait réaliser de la classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc. Notre stratégie :</div>
 - <div align="justify">Essayer des classifications aléatoires en "n" algorithmes (n allant de 1 à 10) afin de déterminer combien d'algorithmes existaient (conclusion 6)
 - <div align="justify">Grouper les livraisons en restaurants pusique 1 restaurant = 1 algorithme
 - <div align="justify">Faire un groupe de restaurant à tarif de livraison fixe (1er algorithme non mathématique)
