@@ -3,7 +3,10 @@
 
 ## Formation
 **Ingénieur agronome, spécialisé en sciences des données**  
-L'institut Agro Rennes-Angers (_Septembre 2023_)	
+L'institut Agro Rennes-Angers (_Septembre 2019 - Septembre 2023_)	
+
+**CPGE BCPST (Biologie, Chimie, Physique et Sciences de la Terre**  
+Lycée Marcelin Berthelot (_Septembre 2017 - Septembre 2019_)
 
 ## Expérience
 **Stagiaire data scientist @ INRAE & CIRAD Montpellier (_Février 2023 - Juillet 2023_)**
