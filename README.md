@@ -5,7 +5,7 @@
 - Ingénieur agronome, spécialisé en sciences des données | L'institut Agro Rennes-Angers (_Septembre 2023_)	
 
 ## Expérience
-**Stagiaire data scientist @ INRAE & CIRAD Montpellier (_Février 2023 - Juillet 2023_)**
+**Stagiaire data scientist @ INRAE & CIRAD Montpellier\ (_Février 2023 - Juillet 2023_)**
 - Manipulation de données spectro (spectres NIRS) et d'images (drone) 
 - Création et optimisation d'algorithmes de machine learning prédictifs
 - Data visualisation poussée dans le but de répondre à des questions scientifiques
