@@ -15,5 +15,5 @@
 - Développement d'un indice de besoin de borne de recharge électrique sur la carte d'Ille-et-Vilaine à partir des données initiales
 - Placement optimisé et dans l'ordre de nécessité du placement des "n" nouvelles bornes souhaitées sur des zones de 1km²
 
-### 3e place au Hackaton du PeREN "Segmente-moi si tu peux"
-- 
+**3e place au Hackaton du PeREN "Segmente-moi si tu peux"
+- Classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc ...
