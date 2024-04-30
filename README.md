@@ -10,9 +10,16 @@ Lycée Marcelin Berthelot (_Septembre 2017 - Septembre 2019_)
 
 ## Expérience
 **Stagiaire data scientist @ INRAE & CIRAD Montpellier (_Février 2023 - Juillet 2023_)**
-- <div align="justify">Manipulation de données spectro (spectres NIRS) et d'images (drone) 
+- <div align="justify">Manipulation de données spectro (spectres NIRS) et d'images (drone)
 - <div align="justify">Création et optimisation d'algorithmes de machine learning prédictifs
+- <div align="justify">Manipulation complexe d'images dans le but de corriger les erreurs de recalage
 - <div align="justify">Data visualisation poussée dans le but de répondre à des questions scientifiques
+
+**Stagiaire biostatisticien @ Nuscience - Inolab (_Septembre 2021 - Janvier 2022_)**
+- <div align="justify">Manipulation d'une bactérie métanotrophe en laboratoire
+- <div align="justify">Développement d'un protocole expérimental permettant de quantifier la quantité de bactérie (dans un milieu biphasique)
+- <div align="justify">Relevés de données de croissance de cette bactérie dans différents milieux de croissance contenant des huiles
+- <div align="justify">Analyse des données sous R et créeation de visualisations pour rapports hebdomadaires
 
 ## Projets
 **Prix du meilleur projet au data challenge Rennes 2023**  
