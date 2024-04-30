@@ -24,5 +24,5 @@ L'institut Agro Rennes-Angers (_Septembre 2023_)
 
 **3e place au Hackaton du PeREN "Segmente-moi si tu peux"**
 - <div align="justify">Ce projet a été réalisé en un total de 8h sur place et consistait à obtenir le meilleur score possible à cahque soumission (max : 1 million)
-- <div align="justify">Il fallait réaliser de la classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc ...
+- <div align="justify">Il fallait réaliser de la classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc
 - <div align="justify">Score maximum personnel : 200 000 (maximum réalisé 400 000)
