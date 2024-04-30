@@ -20,13 +20,12 @@ Lycée Marcelin Berthelot (_Septembre 2017 - Septembre 2019_)
 Ce projet a été réalisé en un total de 26h (début 10h, fin 12h le lendemain) et consistait à placer de façon optimisée des bornes de recharge électriques en Ille-et-Vilaine, notre stratégie :
 - <div align="justify">Création d'une matrice de la carte d'Ille et Vilaine découpée en carrés de 1km²
 - <div align="justify">Développement d'un indice de besoin pondéré de borne de recharge électrique, appliqué à la matrice
-- <div align="justify">Placement optimisé et dans l'ordre de nécessité du placement des "n" nouvelles bornes souhaitées dans la matrice et obtention d'une nouvelle matrice  
+- <div align="justify">Placement optimisé et dans l'ordre de nécessité du placement des "n" nouvelles bornes souhaitées dans la matrice et obtention d'une nouvelle matrice
 
 <div align="center">
 <img width = 800 src="assets/img/matrices_de_besoin.png">
 </div>
-
-<br/>
+<details><summary>Projet Github</summary>Les rendus sont la propriété d'Enedis</details>
 <br/>
 
 **3e place au Hackaton du PeREN "Segmente-moi si tu peux"**  
