@@ -13,7 +13,7 @@ L'institut Agro Rennes-Angers (_Septembre 2023_)
 
 ## Projets
 **Prix du meilleur projet au data challenge Rennes 2023 organisé par Enedis, Groupama et l'université de Rennes 2**
-- <div align="justify">Ce projet a été réalisé en un total de 26h (début 10h, fin 12h le lendemain) et consistait à placer de façon optimisée des bornes de recharge électriques en Ille-et-Vilaine, notre stratégie :
+Ce projet a été réalisé en un total de 26h (début 10h, fin 12h le lendemain) et consistait à placer de façon optimisée des bornes de recharge électriques en Ille-et-Vilaine, notre stratégie :
 - <div align="justify">Création d'une matrice de la carte d'Ille et Vilaine découpée en carrés de 1km²
 - <div align="justify">Développement d'un indice de besoin pondéré de borne de recharge électrique, appliqué à la matrice
 - <div align="justify">Placement optimisé et dans l'ordre de nécessité du placement des "n" nouvelles bornes souhaitées dans la matrice et obtention d'une nouvelle matrice
