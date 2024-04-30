@@ -16,7 +16,7 @@
 - <div align="justify">Développement d'un indice de besoin pondéré de borne de recharge électrique, appliqué à la matrice
 - <div align="justify">Placement optimisé et dans l'ordre de nécessité du placement des "n" nouvelles bornes souhaitées dans la matrice et obtention d'une nouvelle matrice
 
-<img width = 800 src="assets/img/matrices_de_besoin.png">
+<img align="center" width = 800 src="assets/img/matrices_de_besoin.png">
 
 **3e place au Hackaton du PeREN "Segmente-moi si tu peux"**
 - <div align="justify">Classification non supervisée d'algorithmes de facturation de livraisons de commandes type Delviroo, Uber eats, etc ...
